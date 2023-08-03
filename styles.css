@@ -1,0 +1,46 @@
+* {
+    background-color: #ededed;
+}
+
+h1 {
+    background-color: #c3d4c7;
+}
+h4 {
+    background-color: #c3d4c7;
+}
+ul {
+    background-color: #c3d4c7;
+}
+li {
+    background-color: #c3d4c7;
+}
+a {
+    background-color: #c3d4c7;
+}
+
+img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    border-style: groove;
+    border-radius: 6px;
+    border-color: lightgrey;
+    border-width: 5px;
+    background-color: #c3d4c7;
+}
+
+#list{
+    list-style-position: inside;
+    list-style-type: circle;
+}
